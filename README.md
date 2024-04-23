@@ -7,7 +7,14 @@ This is for the improvement of my portfolio based on feedback. I built this duri
 _Mar 2024 - Apr 2024_
 
 ---
-## Try the app:
+## Visit my portfolio website:
+https://portfolio-rho-ruddy-62.vercel.app/resume
+
+---
+
+## Come and leave your thought:
+
+---
 
 ## 📚 Features 
 
