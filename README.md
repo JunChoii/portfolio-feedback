@@ -15,3 +15,8 @@ _Mar 2024 - Apr 2024_
 - **Frontend**: Created the frontend using HTML, CSS, and JavaScript, ensuring an intuitive and responsive user interface.
 - **Database**: Utilized MySQL to store data.
 - **CRUD Operations**: Implemented CRUD (Create, Read, Update, Delete) operations for seamless data management.
+---
+
+## 🤝 Support:
+
+Facing issues or have suggestions? Reach out to me at http://www.linkedin.com/in/junchoiwebdev
